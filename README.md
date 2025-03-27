@@ -22,17 +22,7 @@ API_URL=https://{{your_url}}/api/v1/helpdesk/file
 Replace your_api_key_here with the actual API key.
 Replace your_url with actual url.
 
-3️⃣ Add Test PDF Files
-
-Place two sample PDF files in the project folder:
-
-test-signed.pdf
-
-test-signing-log.pdf
-
-These will be uploaded to the API.
-
-4️⃣ Run the Test
+3️⃣ Run the Test
 
 Execute the script with:
 
