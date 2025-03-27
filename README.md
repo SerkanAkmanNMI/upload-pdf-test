@@ -17,6 +17,7 @@ npm install
 Before running the script, create a .env file in the root directory with the following content:
 
 API_KEY=your_api_key_here
+
 API_URL=https://{{your_url}}/api/v1/helpdesk/file
 
 Replace your_api_key_here with the actual API key.
